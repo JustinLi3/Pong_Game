@@ -1,2 +1,2 @@
 # Pong_Game
-Python implementation of the Pong Game (OPEN FOLDER "DAY#21")
+Python implementation of the Pong Game (Open "DAY#21")
